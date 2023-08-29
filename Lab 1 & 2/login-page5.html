@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Form</title>
+    <link rel="stylesheet" href="mainstyle.css">
+</head>
+<body>
+    <div>
+        <form method="post" action="entertainment-page3.html">
+            <fieldset id="fieldset1">
+                <legend id="legend1">Lon In</legend>
+                <div>
+                    <label for="user1">User Name:</label>
+                    <input type="text" required value="Enter your user name here!" id="user1">
+                </div>
+                <div>
+                    <label for="password1">PassWord</label>
+                    <input type="password" required id="password1">
+                </div>
+                <div>
+                    <label for="country1">Select Your Location:</label>
+                    <select id="country1" required>
+                        <optgroup label="Africa">
+                            <option value="">Egypt</option>
+                            <option value="">Sudan</option>
+                            <option value="">Namibia</option>
+                        </optgroup>
+                        <optgroup label="Europe">
+                            <option value="">France</option>
+                            <option value="">Russia</option>
+                            <option value="">UK</option>
+                        </optgroup>
+                        <optgroup disabled label="North America">
+                            <option value="">Canada</option>
+                            <option value="">Mexico</option>
+                            <option value="">USA</option>
+                        </optgroup>
+                    </select>
+                </div>
+                <div>
+                    <input type="checkbox" id="remmber1">
+                    <label for="remmber1" >Remmber<u>M</u>e</label>
+                </div>
+                <div id="login1">
+                    <input type="submit" value="Log In">
+                </div>
+
+            </fieldset>
+        </form>
+    </div>
+</body>
+</html>
