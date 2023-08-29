@@ -1,6 +1,6 @@
 ## iTi_OpenSrc_S23_G1
 ### This Repository has the materials of ITI Summer Code-Camps (Open Source), First group in 2023 Summer Holiday ( I wasted my holidays? :smiling_face_with_tear: ).
-**And for who don't know what the H**l of the this**:
+**And for who don't know what the H*l of the this**:
 Summer Code-Camps [ITI](https://iti.gov.eg/):
 
 ITI Summer Code-Camps was initiated as one of the most ambitious programs that inspires Egyptian youth in Universities 
