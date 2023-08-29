@@ -8,4 +8,4 @@ with the Supreme Council of Universities, we provide comprehensive services that
 knowledge into fostering excellence through training, Career Clinics, and career talks during their mid-year and summer 
 vacation in highly demanded skills to increase their readiness prior their graduation. 
 
-**To summarize, this is a new technique from Government to wasting taxpayers' money :money_mouth_face:**
+**To summarize, this is a new technique from Government to wasting taxpayers' money :money_mouth_face:**.
